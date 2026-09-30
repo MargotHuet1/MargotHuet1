@@ -1,4 +1,5 @@
-# README.md
+## 👋 hi, I'm Margot 
+📍 Paris, France  ·  🧑‍💻 Fullstack Developer
 
 <section>
   <p><strong>Technical stack</strong></p>
