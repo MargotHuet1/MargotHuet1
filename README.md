@@ -21,7 +21,7 @@ I'm a full-stack developer working for a data and AI specialist company. I have 
 
 <hr>
 
-### Certification prep
+#### Certification prep
 
 Google Cloud Professional Cloud Developer — *on going*
 
@@ -56,7 +56,7 @@ Google Cloud Professional Cloud Developer — *on going*
 
   <p><strong>AI / LLM</strong></p>
 
-  ### My publications
+  #### My publications
 
 - [Optimizing LLM performances with model quantization](https://medium.com/norma-dev/optimizing-llm-performances-with-model-quantization-part-55aad5bbb677)
 
@@ -66,7 +66,7 @@ Google Cloud Professional Cloud Developer — *on going*
 
 ---
 
-### Connect with me
+#### Connect with me
 
 <a href="https://www.linkedin.com/in/margot-huet">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
