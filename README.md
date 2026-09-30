@@ -6,11 +6,11 @@
 
 <br>
 
-I'm a full-stack developer working for a data and AI specialist company. I have a strong interest in **backend** development.
+I'm a full-stack developer working for a data and AI specialist company. I have a strong interest in **backend** development. Here is my [old github account](https://github.com/MargotHuet)
 
 <br>
 
-## My day-to-day responsibilities
+### My day-to-day responsibilities
 
 - Design and development of REST APIs
 - Frontend component creation and performances improvements
@@ -21,7 +21,7 @@ I'm a full-stack developer working for a data and AI specialist company. I have 
 
 <hr>
 
-## On going certification prep
+### Certification prep
 
 Google Cloud Professional Cloud Developer — *on going*
 
@@ -56,7 +56,7 @@ Google Cloud Professional Cloud Developer — *on going*
 
   <p><strong>AI / LLM</strong></p>
 
-  ## My publications
+  ### My publications
 
 - [Optimizing LLM performances with model quantization](https://medium.com/norma-dev/optimizing-llm-performances-with-model-quantization-part-55aad5bbb677)
 
@@ -66,7 +66,7 @@ Google Cloud Professional Cloud Developer — *on going*
 
 ---
 
-## Connect with me
+### Connect with me
 
 <a href="https://www.linkedin.com/in/margot-huet">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
