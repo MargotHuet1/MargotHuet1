@@ -59,6 +59,8 @@ Google Cloud Professional Cloud Developer — *on going*
   ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
   ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat)
 
+---
+
   #### My publications
 
 - [Optimizing LLM performances with model quantization](https://medium.com/norma-dev/optimizing-llm-performances-with-model-quantization-part-55aad5bbb677)
