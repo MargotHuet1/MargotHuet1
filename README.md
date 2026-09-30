@@ -10,7 +10,7 @@ I'm a full-stack developer working for a data and AI specialist company. I have 
 
 <br>
 
-### My day-to-day responsibilities
+#### My day-to-day responsibilities
 
 - Design and development of REST APIs
 - Frontend component creation and performances improvements
