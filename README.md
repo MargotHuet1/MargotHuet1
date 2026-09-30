@@ -1,6 +1,33 @@
-## 👋 hi, I'm Margot 
-📍 Paris, France  ·  🧑‍💻 Fullstack Developer
+<h1 align="center">👋 Hi, I'm Margot</h1>
 
+<hr>
+
+<p align="center">
+  📍 Paris, France &nbsp;•&nbsp; 👩‍💻 Fullstack Developer
+</p>
+
+<br>
+
+I'm a full-stack developer working for a data and AI specialist company. I have a strong interest in **backend** development.
+
+<br>
+
+## My day-to-day responsibilities
+
+- Design and development of REST APIs
+- Frontend component creation and performances improvements
+- Deployment of applications on Google Cloud Platform (Cloud Run, Pub/Sub, Firestore)
+- CI/CD workflows setup
+- Participation in architecture decisions and code reviews
+- Collaboration with remote, international, cross-functional teams
+
+<hr>
+
+## On going certification prep
+
+Google Cloud Professional Cloud Developer — *on going*
+
+<hr>
 <section>
   <p><strong>Technical stack</strong></p>
 
