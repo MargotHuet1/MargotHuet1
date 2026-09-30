@@ -55,6 +55,9 @@ Google Cloud Professional Cloud Developer — *on going*
   ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 
   <p><strong>AI / LLM</strong></p>
+  
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+  ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat)
 
   #### My publications
 
