@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm Margot</h1>
 
-<hr>
-
 <p align="center">
   📍 Paris, France &nbsp;•&nbsp; 👩‍💻 Fullstack Developer
 </p>
@@ -61,10 +59,15 @@ Google Cloud Professional Cloud Developer — *on going*
   ## My publications
 
 - [Optimizing LLM performances with model quantization](https://medium.com/norma-dev/optimizing-llm-performances-with-model-quantization-part-55aad5bbb677)
+
 - [From a Python notebook to a Serverless AI application in production with GCP](https://medium.com/norma-dev/from-a-python-notebook-to-a-serverless-ai-application-in-production-with-gcp-10b78dfdc193)
+
 - [Starting from Scratch: Crafting a Beginner’s Deployment Workflow with Docker and GCP](https://medium.com/norma-dev/starting-from-scratch-crafting-a-beginners-deployment-workflow-with-docker-and-gcp-70025b085e55)
 
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-  ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-orange?style=flat)
+---
 
-</section>
+## Connect with me
+
+<a href="www.linkedin.com/in/margot-huet">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
